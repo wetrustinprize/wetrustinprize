@@ -1,4 +1,4 @@
-<h1 align="center">Toy Projects</h1>
+<h1 align="center"><strong>Toy Projects</strong></h1>
 <h4 align="center">projects I made 4fun</h4>
 
 - [🧰 Tools](#-tools)
@@ -6,9 +6,9 @@
 
 ## 🧰 Tools
 
-| name                                                             | description                |
-| ---------------------------------------------------------------- | -------------------------- |
-| [Premio's Shift](https://github.com/wetrustinprize/premio-shift) | Simples message encryption |
+| name                                                             | description               |
+| ---------------------------------------------------------------- | ------------------------- |
+| [Premio's Shift](https://github.com/wetrustinprize/premio-shift) | Simple message encryption |
 
 ## 🎮 Games
 
