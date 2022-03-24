@@ -8,3 +8,5 @@
 - 👯 I’m looking to collaborate on <b>Gamejams</b>
 
 - 📫 How to reach me: <b>@prize34 on Telegram</b>
+
+_Pixel art icon made by: Victor Emanuel de Lima Velozo_
