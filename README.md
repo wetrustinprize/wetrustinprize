@@ -9,4 +9,4 @@
 
 - 📫 How to reach me: <b>@prize34 on Telegram</b>
 
-_Pixel art icon made by: Victor Emanuel de Lima Velozo_
+_Pixel art icon made by: [Victor Emanuel de Lima Velozo](https://github.com/VrituuRuby)_
