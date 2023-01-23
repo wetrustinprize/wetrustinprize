@@ -16,7 +16,7 @@ skills:
 ```
 ```yaml
 contact:
-- email: me@wetrustinprize.com
+- email: hello@wetrustinprize.com
 - telegram: @wetrustinprize
 - twitter: @wetrustinprize
 ```
