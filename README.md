@@ -14,11 +14,5 @@ skills:
   - Unreal Engine (Blueprint)
   - Godot (C#)
 ```
-```yaml
-contact:
-- email: hello@wetrustinprize.com
-- telegram: @wetrustinprize
-- twitter: @wetrustinprize
-```
 ---
 Check out my portfolio website [clicking here](https://wetrustinprize.com).
